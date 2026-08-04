@@ -1,0 +1,191 @@
+[
+  {
+    "id": "prod-1",
+    "_id": "prod-1",
+    "name": "Aura Sound Pro Wireless Headphones",
+    "description": "Experience active noise-canceling high-fidelity audio with 40-hour battery life, ergonomic memory foam earcups, and spatial 3D audio.",
+    "price": 14999,
+    "originalPrice": 19999,
+    "category": "Audio",
+    "rating": 4.8,
+    "numReviews": 128,
+    "inStock": 15,
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=800&auto=format&fit=crop&q=60"
+    ],
+    "featured": true,
+    "brand": "Aura"
+  },
+  {
+    "id": "prod-2",
+    "_id": "prod-2",
+    "name": "Chronos Smart Watch Ultra",
+    "description": "Titanium case smart watch with sapphire crystal glass, dual-frequency GPS, health monitoring, and 100m water resistance.",
+    "price": 24999,
+    "originalPrice": 29999,
+    "category": "Wearables",
+    "rating": 4.9,
+    "numReviews": 210,
+    "inStock": 8,
+    "images": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?w=800&auto=format&fit=crop&q=60"
+    ],
+    "featured": true,
+    "brand": "Chronos"
+  },
+  {
+    "id": "prod-3",
+    "_id": "prod-3",
+    "name": "CyberDeck Mechanical Keyboard",
+    "description": "Custom hot-swappable RGB mechanical keyboard with PBT keycaps, gasket mount, and ultra-low latency wireless connection.",
+    "price": 8999,
+    "originalPrice": 11999,
+    "category": "Accessories",
+    "rating": 4.7,
+    "numReviews": 85,
+    "inStock": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&auto=format&fit=crop&q=60"
+    ],
+    "featured": false,
+    "brand": "CyberDeck"
+  },
+  {
+    "id": "prod-4",
+    "_id": "prod-4",
+    "name": "Pulse Bass Bluetooth Speaker",
+    "description": "Portable 360-degree surround sound speaker with IP67 dust/waterproof rating, LED light show, and 24-hour playtime.",
+    "price": 5999,
+    "originalPrice": 7999,
+    "category": "Audio",
+    "rating": 4.6,
+    "numReviews": 94,
+    "inStock": 12,
+    "images": [
+      "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=800&auto=format&fit=crop&q=60"
+    ],
+    "featured": true,
+    "brand": "Pulse"
+  },
+  {
+    "id": "prod-5",
+    "_id": "prod-5",
+    "name": "Nebula 4K OLED Gaming Monitor",
+    "description": "27-inch 4K OLED gaming display with 240Hz refresh rate, 0.03ms response time, HDR10+, and ultra-slim bezel.",
+    "price": 54999,
+    "originalPrice": 64999,
+    "category": "Gaming",
+    "rating": 4.9,
+    "numReviews": 56,
+    "inStock": 5,
+    "images": [
+      "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=800&auto=format&fit=crop&q=60"
+    ],
+    "featured": true,
+    "brand": "Nebula"
+  },
+  {
+    "id": "prod-6",
+    "_id": "prod-6",
+    "name": "Minimalist Leather Backpack",
+    "description": "Handcrafted full-grain leather backpack featuring a padded 16-inch laptop compartment, water-resistant lining, and hidden security pockets.",
+    "price": 7499,
+    "originalPrice": 9999,
+    "category": "Fashion",
+    "rating": 4.8,
+    "numReviews": 142,
+    "inStock": 18,
+    "images": [
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&auto=format&fit=crop&q=60"
+    ],
+    "featured": false,
+    "brand": "Dudez Urban"
+  },
+  {
+    "id": "prod-7",
+    "_id": "prod-7",
+    "name": "Apex Wireless Gaming Mouse",
+    "description": "Ergonomic 49g ultra-lightweight gaming mouse with 30K DPI optical sensor, optical switches, and 90-hour battery life.",
+    "price": 4499,
+    "originalPrice": 5999,
+    "category": "Gaming",
+    "rating": 4.7,
+    "numReviews": 73,
+    "inStock": 25,
+    "images": [
+      "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?w=800&auto=format&fit=crop&q=60"
+    ],
+    "featured": false,
+    "brand": "Apex"
+  },
+  {
+    "id": "prod-8",
+    "_id": "prod-8",
+    "name": "AeroStep Nitro Running Shoes",
+    "description": "Ultra-responsive foam cushioning running sneakers with breathable mesh upper and durable carbon fiber plate.",
+    "price": 6999,
+    "originalPrice": 8999,
+    "category": "Fashion",
+    "rating": 4.6,
+    "numReviews": 115,
+    "inStock": 14,
+    "images": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&auto=format&fit=crop&q=60"
+    ],
+    "featured": true,
+    "brand": "AeroStep"
+  },
+  {
+    "id": "prod-9",
+    "_id": "prod-9",
+    "name": "Vanguard ANC Earbuds Gold Edition",
+    "description": "Luxurious gold-accented true wireless earbuds with custom dynamic drivers, active hybrid noise cancellation, and wireless charging case.",
+    "price": 18999,
+    "originalPrice": 24999,
+    "category": "Audio",
+    "rating": 4.9,
+    "numReviews": 64,
+    "inStock": 7,
+    "images": [
+      "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=800&auto=format&fit=crop&q=60"
+    ],
+    "featured": true,
+    "brand": "Vanguard"
+  },
+  {
+    "id": "prod-10",
+    "_id": "prod-10",
+    "name": "Helios Mechanical Chronograph Watch",
+    "description": "Ultra-exclusive automatic mechanical chronograph watch with visible tourbillon, premium gold-plated casing, and authentic crocodile leather strap.",
+    "price": 89999,
+    "originalPrice": 120000,
+    "category": "Wearables",
+    "rating": 5.0,
+    "numReviews": 18,
+    "inStock": 3,
+    "images": [
+      "https://images.unsplash.com/photo-1547996160-81dfa63595aa?w=800&auto=format&fit=crop&q=60"
+    ],
+    "featured": true,
+    "brand": "Helios"
+  },
+  {
+    "id": "prod-11",
+    "_id": "prod-11",
+    "name": "Spectre Gold-Weave Gaming Desk Mat",
+    "description": "High-performance stitched-edge desk pad woven with metallic gold fibers, complete with a water-resistant coating and textured rubber base.",
+    "price": 2999,
+    "originalPrice": 3999,
+    "category": "Accessories",
+    "rating": 4.8,
+    "numReviews": 41,
+    "inStock": 30,
+    "images": [
+      "https://images.unsplash.com/photo-1616440347437-b1c73416efc2?w=800&auto=format&fit=crop&q=60"
+    ],
+    "featured": false,
+    "brand": "Spectre"
+  }
+]

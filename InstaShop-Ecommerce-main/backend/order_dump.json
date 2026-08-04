@@ -1,0 +1,79 @@
+{
+  "shippingAddress": {
+    "phone": "",
+    "street": "1/176,vairavankadu,kameswaram",
+    "city": "Nagapattinam",
+    "state": "Tamil Nadu",
+    "zipCode": "611110",
+    "country": "India"
+  },
+  "returnRequest": {
+    "requested": false,
+    "reason": "",
+    "status": "none"
+  },
+  "refund": {
+    "amount": 0,
+    "reason": "",
+    "status": "none"
+  },
+  "_id": "69c74735fcc75304a0ee7516",
+  "user": "69c7449bfcc75304a0ee6707",
+  "items": [
+    {
+      "product": "69c6455851498468d9f13ed5",
+      "name": "Running Shoes Pro",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500",
+      "quantity": 1,
+      "price": 1,
+      "_id": "69c74735fcc75304a0ee7517"
+    }
+  ],
+  "totalAmount": 1,
+  "paymentId": "pay_SWUcmZI7GHIQPT",
+  "razorpayOrderId": "order_SWUcYbBglojhYv",
+  "razorpaySignature": "b6b7c53bab80b07c786cffc5d741c2528bf6ce2a4d932d97bab810f487571dee",
+  "paymentStatus": "paid",
+  "orderStatus": "cancelled",
+  "statusHistory": [
+    {
+      "status": "placed",
+      "note": "Order placed successfully",
+      "_id": "69c74735fcc75304a0ee7518",
+      "timestamp": "2026-03-28T03:12:53.883Z"
+    },
+    {
+      "status": "cancelled",
+      "note": "Status updated to cancelled by admin",
+      "_id": "69c74749fcc75304a0ee7677",
+      "timestamp": "2026-03-28T03:13:13.598Z"
+    },
+    {
+      "status": "placed",
+      "note": "Status updated to placed by admin",
+      "_id": "69c747c2fcc75304a0ee78b0",
+      "timestamp": "2026-03-28T03:15:14.635Z"
+    },
+    {
+      "status": "cancelled",
+      "note": "Status updated to cancelled by admin",
+      "_id": "69c747c7fcc75304a0ee7964",
+      "timestamp": "2026-03-28T03:15:19.978Z"
+    },
+    {
+      "status": "placed",
+      "note": "Status updated to placed by admin",
+      "_id": "69c7484ffcc75304a0ee7a1b",
+      "timestamp": "2026-03-28T03:17:35.405Z"
+    },
+    {
+      "status": "cancelled",
+      "note": "Status updated to cancelled by admin",
+      "_id": "69c74935fcc75304a0ee7c39",
+      "timestamp": "2026-03-28T03:21:25.056Z"
+    }
+  ],
+  "createdAt": "2026-03-28T03:12:53.885Z",
+  "updatedAt": "2026-03-28T03:21:25.057Z",
+  "__v": 5
+}
